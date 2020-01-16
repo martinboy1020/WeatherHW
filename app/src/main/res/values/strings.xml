@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather HomeWork</string>
+    <string name="string_welcome">歡迎回來</string>
+    <string name="string_get_data_error">讀取資料失敗</string>
+    <string name="string_loading">Loading</string>
+    <string name="string_refresh">Refresh</string>
+</resources>
